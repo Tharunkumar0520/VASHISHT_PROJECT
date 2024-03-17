@@ -21,9 +21,8 @@ To predict and suggest the crop disease and crop suggestion to grow in that area
     <img src="https://github.com/Tharunkumar0520/LeafGuard/blob/main/Screenshot%202024-03-17%20132907.png" alt="Image 1" style="width: 30%; margin: 5px;">
     <img src="https://github.com/Tharunkumar0520/LeafGuard/blob/main/Screenshot%202024-03-17%20132924.png" alt="Image 2" style="width: 30%; margin: 5px;">
     <img src="https://github.com/Tharunkumar0520/LeafGuard/blob/main/Screenshot%202024-03-17%20132931.png" alt="Image 3" style="width: 30%; margin: 5px;">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEwduQ50DEm_tr94tfGWHqAYzzvjb_5oS6ULmejCN2pBlolGfTv8wTwaa64fnt1GThiDc" alt="Image 3" style="width: 30%; margin: 5px;">
-       <img src="https://static.vecteezy.com/system/resources/previews/013/688/865/non_2x/modern-color-and-geometric-banner-design-template-on-the-background-of-the-mobile-phone-mobile-modern-poster-marketing-special-offer-promotion-smartphone-mockup-vector.jpg" alt="Image 1" style="width: 30%; margin: 5px;">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSECH9uhvdGq0EP6QqG8lzAyjz1F-6V5RyMZrjBGmoIbP5diPgG53mWePJ9RlWVbJuVWCo&usqp=CAU" alt="Image 2" style="width: 30%; margin: 5px;">
+    <img src="https://github.com/Tharunkumar0520/LeafGuard/blob/main/Screenshot%202024-03-17%20132943.png" alt="Image 3" style="width: 30%; margin: 5px;">
+      
 </div>
 
 ## Problem statement 
