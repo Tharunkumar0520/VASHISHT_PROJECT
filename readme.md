@@ -5,7 +5,7 @@
     ⭐️To predict and suggest the crop disease and crop suggestion to grow in that area ⭐️ <br>
 </h1>
 
-#   [`Demo video link `](http://www.google.com)
+#   [`Demo video link `](https://github.com/Tharunkumar0520/LeafGuard/blob/main/WhatsApp%20Video%202024-03-17%20at%2014.54.55_c7fb4851.mp4))
 To predict and suggest the crop disease and crop suggestion to grow in that area
 ## Team Details
 `Team number` : VH205
