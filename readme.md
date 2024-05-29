@@ -6,16 +6,7 @@
 </h1>
 
 #   [`Demo video link `](https://github.com/Tharunkumar0520/LeafGuard/blob/main/WhatsApp%20Video%202024-03-17%20at%2014.54.55_c7fb4851.mp4)
-To predict and suggest the crop disease and crop suggestion to grow in that area
-## Team Details
-`Team number` : VH205
-
-| Name    | Email           |
-|---------|-----------------|
-| Tharun Kumar P | tharunknkumar@gmail.com |
-| Athis Raswanth D | athishraswanthd.csbs2022@citchennai.net |
-| Vigneshwaran S | vigneshwaranvickey21@gmail.com |
-| Aadhitya S | aadhityas.csbs2022@citchennai.net |
+To predict and suggest the crop disease and crop suggestion to grow in that are
 
 <div style="display: flex; flex-wrap: wrap;">
     <img src="https://github.com/Tharunkumar0520/LeafGuard/blob/main/Screenshot%202024-03-17%20132907.png" alt="Image 1" style="width: 30%; margin: 5px;">
