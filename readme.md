@@ -48,8 +48,4 @@ pip install -r requirements.txt
 python app.py
 ```
 
-# What's next ?
-tell the future plan that you have for the project , tell the updates that you would wish to bring
 
-## Declaration
-We confirm that the project showcased here was either developed entirely during the hackathon or underwent significant updates within the hackathon timeframe. We understand that if any plagiarism from online sources is detected, our project will be disqualified, and our participation in the hackathon will be revoked.
